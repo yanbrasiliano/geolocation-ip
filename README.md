@@ -9,7 +9,7 @@
 <p>3. <strong>Install requeriments.txt</strong> <br>
 <pre>pip install -r requirements.txt</pre></p></p>
 <br>
-<p>Enjoying the generator 🏁</p>
+<p>Enjoying the script 🏁</p>
 
 ![image](https://user-images.githubusercontent.com/72168914/111485832-bb37ee80-8715-11eb-9cdd-2cf0715234d1.png)
 
