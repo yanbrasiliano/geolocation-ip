@@ -7,7 +7,7 @@
 <p>2. <strong>If you have not installed the pip package, install via terminal.</strong><br>
 <pre> sudo apt install python3-pip </pre></p>
 <p>3. <strong>Install requeriments.txt</strong> <br>
-<pre>pip install -r requirements.txt</pre></p></p>
+<pre>pip3 install -r requirements.txt</pre></p></p>
 <br>
 <p>Enjoying the script 🏁</p>
 
