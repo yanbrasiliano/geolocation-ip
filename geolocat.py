@@ -29,7 +29,7 @@ response = DbIpCity.get(IP,api_key='free')
 
 print('Searching...') 
 sleep(1)
-print(f'IP: {IP}')
+print(f'Address IP: {IP}')
 print(f'City: {response.city}')
 print(f'Region: {response.region}')
 print(f'Country: {response.country}')
